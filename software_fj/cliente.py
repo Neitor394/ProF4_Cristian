@@ -3,7 +3,7 @@
 # Fase 4 - Programacion (UNAD)
 
 import re
-from entidad import Entidad
+from software_fj.entidad import Entidad
 from excepciones import ClienteInvalidoError, DatoFaltanteError
 
 
